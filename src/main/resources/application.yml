@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://${USER}:${PASS}@cluster0.kwqtuvx.mongodb.net/
+      database: webflux
